@@ -1,0 +1,25 @@
+{
+  "name": "hello-prisma",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiminjungg/hello-prisma.git"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/jiminjungg/hello-prisma/issues"
+  },
+  "homepage": "https://github.com/jiminjungg/hello-prisma#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.12",
+    "prisma": "^6.11.1",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
